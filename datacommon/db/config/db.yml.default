@@ -1,0 +1,20 @@
+MySQL:
+  development:
+    host: ""
+    user: ""
+    password: ""
+
+  production:
+    host: ""
+    user: ""
+    password: ""
+
+  slave:
+    host: ""
+    user: ""
+    password: ""
+
+  private:
+    host: ""
+    user: ""
+    password: ""
